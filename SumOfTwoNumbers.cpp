@@ -8,6 +8,6 @@ int main()
     cin >> var1 >> var2;
 
     cout << " Sum of 2 numbers = " << result;
-    cout << " Devendra ";
+    cout << " Thakur ";
     return 0;
 }
