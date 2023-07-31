@@ -9,6 +9,7 @@ int main()
 
     cout << " Sum of 2 numbers = " << result;
     cout << " Product of 2 numbers = " << var1 * var2;
-    cout << " Devendra ";
+    cout << " Quotient of 2 numbers = " << var1 / var2;
+    //cout << " Devendra ";
     return 0;
 }
