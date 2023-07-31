@@ -8,6 +8,7 @@ int main()
     cin >> var1 >> var2;
 
     cout << " Sum of 2 numbers = " << result;
-    cout << " Thakur ";
+    cout << " Product of 2 numbers = " << var1 * var2;
+    cout << " Devendra ";
     return 0;
 }
